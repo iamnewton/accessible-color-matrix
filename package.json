@@ -21,6 +21,6 @@
   "dependencies": {
     "elm-webpack-loader": "^4.1.1",
     "webpack": "^1.14.0",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^3.3.1"
   }
 }
