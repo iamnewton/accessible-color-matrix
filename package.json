@@ -20,7 +20,7 @@
   "homepage": "https://github.com/toolness/accessible-color-matrix#readme",
   "dependencies": {
     "elm-webpack-loader": "^4.1.1",
-    "webpack": "^1.14.0",
+    "webpack": "^5.31.0",
     "webpack-dev-server": "^1.16.2"
   }
 }
